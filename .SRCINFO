@@ -1,0 +1,12 @@
+pkgbase = alpaka
+	pkgver = 2.2.0
+	pkgrel = 1
+	url = https://github.com/alpaka-group/alpaka
+	arch = any
+	license = MPL-2.0
+	makedepends = cmake
+	depends = boost
+	source = https://github.com/alpaka-group/alpaka/archive/refs/tags/2.2.0.tar.gz
+	sha256sums = b38dc3f461da261a746956bd84ae85c62a9b3ef13c078c94bceb9783ae94d1f2
+
+pkgname = alpaka
